@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassifiadorDeTriangulos.ConsoleApp", "ClassifiadorDeTriangulos.ConsoleApp\ClassifiadorDeTriangulos.ConsoleApp.csproj", "{EFD6B2E4-9C6B-4899-A25D-B44B2C5475EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFD6B2E4-9C6B-4899-A25D-B44B2C5475EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD6B2E4-9C6B-4899-A25D-B44B2C5475EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD6B2E4-9C6B-4899-A25D-B44B2C5475EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD6B2E4-9C6B-4899-A25D-B44B2C5475EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CF01DB9-96C8-431C-A11D-FF614CBB464F}
+	EndGlobalSection
+EndGlobal
